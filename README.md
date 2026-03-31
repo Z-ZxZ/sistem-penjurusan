@@ -1,1 +1,0 @@
-# sistem-penjurusan-sma
