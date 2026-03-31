@@ -15,17 +15,17 @@ print("Sistem Penjurusan SMA")
 print("\nSyarat Nilai Jurusan")
 print("Jurusan   Mata Pelajaran     Minimum")
 
-print("IPA       Matematika         80")
+print("\nIPA       Matematika         80")
 print("          Biologi            78")
 print("          Fisika             78")
 print("          Kimia              78")
 
-print("IPS       Matematika         80")
+print("\nIPS       Matematika         80")
 print("          Geografi           78")
 print("          Ekonomi            80")
 print("          Sosiologi          78")
 
-print("BAHASA    Matematika         75")
+print("\nBAHASA    Matematika         75")
 print("          B. Indonesia       80")
 print("          B. Inggris         78")
 print("          B. Lain            75")
@@ -34,9 +34,9 @@ print("          B. Lain            75")
 nama = input("\nNama siswa: ")
 
 print("\nPilih minat jurusan")
-print("1 IPA")
-print("2 IPS")
-print("3 BAHASA")
+print("1. IPA")
+print("2. IPS")
+print("3. BAHASA")
 
 pilihan = input("Masukkan pilihan: ")
 
